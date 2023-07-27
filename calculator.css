@@ -43,7 +43,7 @@ button
  box-shadow: 0px 3px 30px 2px #34a0a4 /*#c8b6ff*/;
  font-weight:550;
  font-size: 20px;
- 
+ text-align: center;
 }
 button:hover
 {
